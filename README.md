@@ -28,6 +28,7 @@ $ mkvirtualenv $(basename $(pwd))
 drf
 (drf)$ deactivate
 \$
+# Running the Django Application
 10. Go to the project folder 'drf' Save workspace in project folder path in VS code.
 11. Activate the virtual environment using command $ workon . make sure you are in the project folder 'drf'. 
 12. Before installing packages check the following path for python, pip and version of python used, using which python && which pip && python -V && pip -V, upgrade pip using python -m pip install --upgrade pip.
